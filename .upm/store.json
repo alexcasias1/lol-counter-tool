@@ -1,0 +1,1 @@
+{"version":2,"languages":{"python3-uv":{"specfileHash":"c9993488473cff3c2ca3de71fd8d63e2","lockfileHash":"788cdf1696f2ffda88c9bcf3a75958ec","guessedImports":["pandas","aiohttp","requests"],"guessedImportsHash":"dac1dd784e4c240b1930f06ea95ede6f"}}}
